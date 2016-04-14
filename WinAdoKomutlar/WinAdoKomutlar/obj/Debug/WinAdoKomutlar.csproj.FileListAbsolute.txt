@@ -1,0 +1,9 @@
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\bin\Debug\WinAdoKomutlar.exe.config
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\bin\Debug\WinAdoKomutlar.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\bin\Debug\WinAdoKomutlar.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.frmADONET.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.Properties.Resources.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.csproj.GenerateResource.Cache
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlar\WinAdoKomutlar\obj\Debug\WinAdoKomutlar.pdb
