@@ -1,0 +1,11 @@
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\bin\Debug\WinAdoKomutlarDevam.exe.config
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\bin\Debug\WinAdoKomutlarDevam.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\bin\Debug\WinAdoKomutlarDevam.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.frmAdoCrud.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.Properties.Resources.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.csproj.GenerateResource.Cache
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.frmUpdate.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WinAdoKomutlarDevam\WinAdoKomutlarDevam\obj\Debug\WinAdoKomutlarDevam.frmDelete.resources
